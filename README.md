@@ -1,7 +1,7 @@
 ## This is LangTrans: The language translator
 
-You can use the [editor on GitHub](https://github.com/deepankchauhan/translator/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+This application is built in order to provide ease in translating programming languages, there may be some users which are comfortable in some specific programming language while some in some other. So, LangTrans provide a real time translation of codes written in one language to another.
+At the initial stages, this software would be focusing on translating C to Python. If it succeeds, the project can be moved further featuring more languages like Java, C++, R etc.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
