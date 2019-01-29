@@ -5,4 +5,6 @@
 int main()
 {
   printf("Welcome:");
+  
+  printf("We can translate your C code into a python code");
 }
